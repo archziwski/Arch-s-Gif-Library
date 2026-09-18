@@ -1,6 +1,6 @@
-# 🇪🇳 🌐 Welcome to Arch's Gif Library/DB check readme.md (just scroll for github) out for more info
+# 🇪🇳 🌐 Welcome to AGL (Arch's Gif Library) check readme.md (just scroll for github) out for more info
 ## ───────────────────────────────────────────────────────────
-# 🇹🇷 ☪️ Arch'ın Gif Kütüphanesine Hoşgeldin readme.md ye bakarak ne yapabilecegini bulabilirisin (githubdaysan alta kaydır)
+# 🇹🇷 ☪️ AGL'ye (Arch'ın Gif Kütüphanesine) Hoşgeldin readme.md ye bakarak ne yapabilecegini bulabilirisin (githubdaysan alta kaydır)
 
 # 🇪🇳 🌐 You can just download the gifs from the repo and send it to anywhere you want or use the links
 # 🇹🇷 ☪️ İsterseniz gifleri repodan yükleyebilir yada linkleri kopyalayıp herhangibi yere yapıştırabilirsiniz
