@@ -46,3 +46,15 @@ https://raw.githubusercontent.com/archziwski/Arch-s-Gif-Library/refs/heads/main/
 ```
 
 ---
+
+## 💬 Discord
+
+> **🇪🇳 🌐** Join our Discord server!
+>
+> **🇹🇷 ☪️** Discord sunucumuza katılın!
+
+```
+https://discord.gg/UhSHAJ4MR
+```
+
+---
