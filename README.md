@@ -2,6 +2,9 @@
 ## ───────────────────────────────────────────────────────────
 # 🇹🇷 ☪️ Arch'ın Gif Kütüphanesine Hoşgeldin readme.md ye bakarak ne yapabilecegini bulabilirisin (githubdaysan alta kaydır)
 
+# 🇪🇳 🌐 You can just download the gifs from the repo and send it to anywhere you want or use the links
+# 🇹🇷 ☪️ İsterseniz gifleri repodan yükleyebilir yada linkleri kopyalayıp herhangibi yere yapıştırabilirsiniz
+
 # 🇪🇳 🌐 Gifs List🖼️
 # 🇹🇷 ☪️ Gif Listesi
 
